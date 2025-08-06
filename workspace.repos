@@ -62,4 +62,4 @@ repositories:
   nrc_algo:
     type: git
     url: '/home/nissan/projects/nrc_ws_cityad/src/nrc_algo'
-    version: 52d22d0c
+    version: 52d22d0c1111
