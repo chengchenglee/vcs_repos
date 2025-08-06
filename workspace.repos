@@ -2,7 +2,7 @@ repositories:
   nrc_pcp:
     type: git
     url: '/home/nissan/projects/nrc_ws_cityad/src/nrc_pcp'
-    version: 1926e9a2fb0530da41a29dd449de284450745a33
+    version: 1e9f7c677bcff527bbffae1f840a92dfe175de26
   nrc_wm:
     type: git
     url: '/home/nissan/projects/nrc_ws_cityad/src/nrc_wm'
