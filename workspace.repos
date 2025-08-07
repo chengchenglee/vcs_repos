@@ -18,7 +18,7 @@ repositories:
   nrc_hw:
     type: git
     url: '/home/nissan/projects/nrc_ws_cityad/src/nrc_hw'
-    version: 3aec4a03cd6d053fdb4bf618bf1c21111121bb74
+    version: 9bb9cdfd89ab96f1e66a4a37cc6f0699740b0995
   ym0_maas:
     type: git
     url: '/home/nissan/projects/nrc_ws_cityad/src/ym0_maas'
