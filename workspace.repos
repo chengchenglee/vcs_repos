@@ -2,64 +2,64 @@ repositories:
   nrc_pcp:
     type: git
     url: '/home/nissan/projects/nrc_ws_cityad/src/nrc_pcp'
-    version: 1e9f7c67
+    version: 1e9f7c677bcff527bbffae1f840a92dfe175de26
   nrc_wm:
     type: git
     url: '/home/nissan/projects/nrc_ws_cityad/src/nrc_wm'
-    version: 3c50e22
+    version: 3c50e22bbe1d94fcc0931747d117690a19b8c77d
   nrc_leaf:
     type: git
     url: '/home/nissan/projects/nrc_ws_cityad/src/nrc_leaf'
-    version: 75befce
+    version: 75befceb7e2424d047905ffc85f09c4469808bb8
   nrc_av_ui:
     type: git
     url: '/home/nissan/projects/nrc_ws_cityad/src/nrc_av_ui'
-    version: d37bc47
+    version: d37bc479d402ae3d819bea814ed3712b4eadd41d
   nrc_hw:
     type: git
     url: '/home/nissan/projects/nrc_ws_cityad/src/nrc_hw'
-    version: 3aec4a0
+    version: 3aec4a03cd6d053fdb4bf618bf1c21111121bb74
   ym0_maas:
     type: git
     url: '/home/nissan/projects/nrc_ws_cityad/src/ym0_maas'
-    version: 4486082
+    version: 4486082b079ea81fee19129d860ef7c2f9e90df0
   nrc_apps:
     type: git
     url: '/home/nissan/projects/nrc_ws_cityad/src/nrc_apps'
-    version: 68354e4
+    version: 68354e42106d72a2827cc638b4a81200f2396583
   nrc_perc:
     type: git
     url: '/home/nissan/projects/nrc_ws_cityad/src/nrc_perc'
-    version: c868df45
+    version: c868df4573fa143c81780a565cca49bb9f98d881
   nrc:
     type: git
     url: '/home/nissan/projects/nrc_ws_cityad/src/nrc'
-    version: 2cf0ef0
+    version: 2cf0ef0ac30a36438e5f6f6acb9e26da5550a79b
   ym0_loc:
     type: git
     url: '/home/nissan/projects/nrc_ws_cityad/src/ym0_loc'
-    version: d4e30e3
+    version: d4e30e38d167d6ed3fe20830384d48a7f70126ea
   nrc_dm:
     type: git
     url: '/home/nissan/projects/nrc_ws_cityad/src/nrc_dm'
-    version: b83ba3227
+    version: b83ba322788e6afa98a6c4177f6c70fe7b2c9107
   maav:
     type: git
     url: '/home/nissan/projects/nrc_ws_cityad/src/maav'
-    version: c916db5a
+    version: c916db5abff151c993c53e6dfb343efb0bf97f36
   nrc_msgs:
     type: git
     url: '/home/nissan/projects/nrc_ws_cityad/src/nrc_msgs'
-    version: f7aa1e3
+    version: f7aa1e33d2154b885f9bedacb409e5deeb3282e8
   nrc_svcs:
     type: git
     url: '/home/nissan/projects/nrc_ws_cityad/src/nrc_svcs'
-    version: d7797e4c0
+    version: d7797e4c01d1aed3e707e8014ef111cd499e0c68
   nrc_cmake:
     type: git
     url: '/home/nissan/projects/nrc_ws_cityad/src/nrc_cmake'
-    version: 5e369ae
+    version: 5e369ae2dd6ed2ea521601fd22ab7b7b0e0c7e7f
   nrc_algo:
     type: git
     url: '/home/nissan/projects/nrc_ws_cityad/src/nrc_algo'
-    version: 52d22d0c
+    version: 52d22d0cdf6bac936d8b918f4a933e3ba623f0bb
