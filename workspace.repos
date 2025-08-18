@@ -30,7 +30,7 @@ repositories:
   nrc_perc:
     type: git
     url: 'ssh://git@stash.ail-sv.com/nrc/nrc_perc.git'
-    version: c868df45
+    version: 0958d590
   nrc:
     type: git
     url: 'ssh://git@stash.ail-sv.com/nrc/nrc.git'
@@ -46,7 +46,7 @@ repositories:
   maav:
     type: git
     url: 'ssh://git@stash.ail-sv.com/aav/maav.git'
-    version: c916db5a
+    version: ed3dac5f
   nrc_msgs:
     type: git
     url: 'ssh://git@stash.ail-sv.com/nrc/nrc_msgs.git'
