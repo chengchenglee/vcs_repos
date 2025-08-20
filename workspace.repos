@@ -14,68 +14,8 @@ repositories:
     url: 'ssh://git@stash.ail-sv.com/nrc/nrc_leaf.git'
     branch: cityad/main
     version: 75befce
-  nrc_av_ui:
-    type: git
-    url: 'ssh://git@stash.ail-sv.com/nrc/nrc_av_ui.git'
-    branch: cityad/main_AvAgent
-    version: d37bc47
   nrc_hw:
     type: git
     url: 'ssh://git@stash.ail-sv.com/nrc/nrc_hw.git'
     branch: cityad/main
-    version: 9bb9cdfd
-  ym0_maas:
-    type: git
-    url: 'ssh://git@stash.ail-sv.com/ym0/ym0_maas.git'
-    branch: cityad/main
-    version: 4486082
-  nrc_apps:
-    type: git
-    url: 'ssh://git@stash.ail-sv.com/nrc/nrc_apps.git'
-    branch: cityad/main
-    version: 68354e4
-  nrc_perc:
-    type: git
-    url: 'ssh://git@stash.ail-sv.com/nrc/nrc_perc.git'
-    branch: cityad/main
-    version: 0958d590
-  nrc:
-    type: git
-    url: 'ssh://git@stash.ail-sv.com/nrc/nrc.git'
-    branch: cityad/main
-    version: 2cf0ef0
-  ym0_loc:
-    type: git
-    url: 'ssh://git@stash.ail-sv.com/ym0/ym0_loc.git'
-    branch: cityad/main
-    version: d4e30e3
-  nrc_dm:
-    type: git
-    url: 'ssh://git@stash.ail-sv.com/nrc/nrc_dm.git'
-    branch: cityad/main
-    version: b83ba3227
-  maav:
-    type: git
-    url: 'ssh://git@stash.ail-sv.com/aav/maav.git'
-    branch: cityad/main
-    version: ed3dac5f
-  nrc_msgs:
-    type: git
-    url: 'ssh://git@stash.ail-sv.com/nrc/nrc_msgs.git'
-    branch: cityad/main_AvAgent
-    version: f7aa1e3
-  nrc_svcs:
-    type: git
-    url: 'ssh://git@stash.ail-sv.com/nrc/nrc_svcs.git'
-    branch: cityad/main
-    version: a5475cba8
-  nrc_cmake:
-    type: git
-    url: 'ssh://git@stash.ail-sv.com/nrc/nrc_cmake.git'
-    branch: cityad/main
-    version: 5e369ae
-  nrc_algo:
-    type: git
-    url: 'ssh://git@stash.ail-sv.com/nrc/nrc_algo.git'
-    branch: cityad/main
-    version: 52d22d0c
+    version: 9bb9cdf
