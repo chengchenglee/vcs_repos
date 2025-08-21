@@ -3,7 +3,7 @@ repositories:
     type: git
     url: 'ssh://git@stash.ail-sv.com/nrc/nrc_perc.git'
     branch: cityad/main
-    version: ab61377c
+    version: 8d0319cd
   ym0_loc:
     type: git
     url: 'ssh://git@stash.ail-sv.com/ym0/ym0_loc.git'
